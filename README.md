@@ -1,10 +1,14 @@
-# My GPT Built from Scratch
+# My GPT Built from Scratch (under construction)
 
 > Assembled from the NeetCode ML course on [NeetCode.io](https://neetcode.io)
 > Built by **Arick** on September 21, 2026
 
 Every file in this project is code I wrote and submitted while completing the NeetCode ML course.
-The problems progressively build from gradient descent fundamentals all the way to a working GPT.
+The problems progressively build from gradient descent fundamentals all the way to a working GPT. 
+
+<font color="red">I only use numpy and torch libs</font>
+
+![brain](ann_brain.png)
 
 ## Project Structure
 
