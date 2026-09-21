@@ -1,4 +1,4 @@
-# My GPT — Built from Scratch
+# My GPT Built from Scratch
 
 > Assembled from the NeetCode ML course on [NeetCode.io](https://neetcode.io)
 > Built by **Arick** on September 21, 2026
@@ -46,12 +46,6 @@ python train.py
 python generate.py
 ```
 
-## Course
 
-This project was built by completing the [NeetCode ML Course](https://neetcode.io/practice?tab=coreSkills&topic=Machine+Learning):
-- Math Foundations (gradient descent, activations, loss functions)
-- Neural Networks from scratch (neuron, backprop, MLP)
-- PyTorch fundamentals
-- NLP pipeline (embeddings, tokenization, attention)
-- Transformer architecture
-- GPT model + text generation
+> This project was built by completing the NeetCode ML Course
+
